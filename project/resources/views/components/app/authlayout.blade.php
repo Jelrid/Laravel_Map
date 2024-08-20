@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=21a0bfd2-bd4e-4c0b-9010-6e84fc6aaad3&lang=ru_RU" type="text/javascript">
+    </script>
     @vite('resources/css/app.css')
 </head>
 
